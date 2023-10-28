@@ -24,6 +24,7 @@ module.exports = {
         headerPhone:'515px',
         headerPhone1:'375px',
         menuPhone:'650px',
+        linePhone:'600px'
       },
       backgroundImage: {
         'header-image':"url('/public/images/imageHeader.png')",

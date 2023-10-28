@@ -3,7 +3,7 @@ import React from 'react'
 export default function Introduct() {
   return (
     <>
-        <div className='w-full flex navBarTablet:flex-row flex-col-reverse items-center navBarTablet:py-[0px] headerPhone:py-[75px] py-[90px]'>
+        <div className='w-full flex navBarTablet:flex-row flex-col-reverse items-center navBarTablet:pt-[0px] headerPhone:pt-[75px] pt-[90px]'>
             <div className='navBarTablet:w-[50%] w-[100%]'>
                 <img className='w-[100%]' src='images/Itroduct.png' alt=''/>
             </div>
@@ -17,6 +17,7 @@ export default function Introduct() {
                 </div>
             </div>
         </div>
+        
     </>
   )
 }
