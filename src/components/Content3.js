@@ -1,23 +1,23 @@
 import React from 'react'
 
-export default function Content2() {
+export default function Content3() {
   return (
     <>
-       <div className='w-full flex navBarTablet:flex-row flex-col navBarTablet:pb-[100px] items-end contentXl:px-[160px] contentLg2:px-[120px] navBarTablet:px-[90px] p-0'>
+        <div className='w-full flex navBarTablet:flex-row flex-col navBarTablet:pb-[100px] items-end contentXl:px-[160px] contentLg2:px-[120px] navBarTablet:px-[90px] p-0'>
             <div className='navBarTablet:w-[36%] w-[100%] content3XL:pr-[120px] navBarTablet:pr-[80px] navBarTablet:pl-[0px] pl-[16px]'>  
-                <h1 className='font-Purple text-content1 font-normal contentXl:text-[122px] leading-normal content2XL:h-[100%] contentXl:h-[165px] contentLg2:h-[155px] navBarTablet:h-[145px] navBarTablet:text-[115px] text-[122px] navBarTablet:pr-[0px] pr-[16px]'>02</h1>
-                <h2 className='font-BeVietNamPro font-bold uppercase text-gray-700 contentXl:text-[32px] navBarTablet:text-[23px] text-[24px] navBarTablet:pr-0 pr-[16px] contentXl:leading-[40px] leading-[32px]'>Áo thun dài tay, Hoodies, Áo khoác</h2>
+                <h1 className='font-Purple text-content1 font-normal contentXl:text-[122px] leading-normal content2XL:h-[100%] contentXl:h-[165px] contentLg2:h-[155px] navBarTablet:h-[145px] navBarTablet:text-[115px] text-[122px] navBarTablet:pr-[0px] pr-[16px]'>03</h1>
+                <h2 className='font-BeVietNamPro font-bold uppercase text-gray-700 contentXl:text-[32px] navBarTablet:text-[23px] text-[24px] navBarTablet:pr-0 pr-[16px] contentXl:leading-[40px] leading-[32px]'>Phụ kiện -  Mũ, Túi tote, khẩu trang, Khăn, Balo</h2>
                 <p className='font-BeVietNamPro font-normal text-gray-500 text-[16px] contentXl:leading-[24px] leading-[21px] content2XL:pt-[16px] content2XL:pb-[80px] contentXl:pt-[12px] contentXl:pb-[65px] contentLg2:pt-[10px] contentLg2:pb-[50px] navBarTablet:pt-[8px] navBarTablet:pb-[35px] pt-[16px] pb-[24px] navBarTablet:pr-0 pr-[16px]'>Bạn muốn tìm một kiểu áo phù hợp cho mọi dịp, thoải mái và phản ánh cá tính của bạn? Hãy đến với chúng tôi và khám phá bộ sưu tập độc đáo của Áo T-shirt - điểm nhấn cho mọi người, từ cá nhân đến doanh nghiệp.</p>
-                <img className='w-full' src='images/Content2_1.png' alt=''/>
+                <img className='w-full' src='images/Content3_1.png' alt=''/>
             </div>
             <div className='navBarTablet:w-[64%] w-full navBarTablet:pr-0 navBarTablet:py-0 py-[16px] pr-[16px]'>
-                <img className='contentTablet:h-full w-full navBarTablet:h-[430px] bg-cover bg-center' src='images/Content2_2.png' alt=''/>
+                <img className='contentTablet:h-full w-full navBarTablet:h-[430px] bg-cover bg-center' src='images/Content3_2.png' alt=''/>
             </div>
         </div>
 
         <div className='flex navBarTablet:flex-row flex-col navBarTablet:pb-[80px] pb-0'>
             <div className='navBarTablet:w-[43%] w-[100%]'>
-                <img className='w-full contentCotton:h-auto navBarTablet:h-[370px] h-auto' src='images/Content2_3.png' alt=''/>
+                <img className='w-full contentCotton:h-auto navBarTablet:h-[370px] h-auto' src='images/Content3_3.png' alt=''/>
             </div>
             <div className='navBarTablet:w-[57%] w-[100%] navBarTablet:pl-[80px] navBarTablet:pr-[160px]'>
                 <div className='content2Xl:py-[30px] contentXl:py-[15px] contentLg2:py-[5px] navBarTablet:py-[0px] py-[24px] navBarTablet:px-0 px-[16px]'>
@@ -26,10 +26,10 @@ export default function Content2() {
                 </div>
                 <div className='flex content2Xl:pt-[14px] contentLg2:pt-[10px] navBarTablet:pt-[12px] pt-0 items-center w-full '>
                     <div className='w-[52%] bg-yellow-50'>
-                        <img className='w-full' src='images/Content1_5.png' alt=''/>
+                        <img className='w-full' src='images/Content3_5.png' alt=''/>
                     </div>
                     <div className='pl-[4.5%] flex flex-col items-center w-[48%]'>
-                        <img className='w-full' src='images/Content1_4.png' alt=''/>
+                        <img className='w-full' src='images/Content3_4.png' alt=''/>
                         <img className='contentXl:pt-[80px] contentLg2:pt-[55px] navBarTablet:pt-[35px] pt-[22%] w-[35%]' src='images/Content1_6.png' alt=''/>
                     </div>
                 </div>
