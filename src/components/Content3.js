@@ -8,14 +8,14 @@ export default function Content3() {
                 <h1 className='font-Purple text-content1 font-normal contentXl:text-[122px] leading-normal content2XL:h-[100%] contentXl:h-[165px] contentLg2:h-[155px] navBarTablet:h-[145px] navBarTablet:text-[115px] text-[122px] navBarTablet:pr-[0px] pr-[16px]'>03</h1>
                 <h2 className='font-BeVietNamPro font-bold uppercase text-gray-700 contentXl:text-[32px] navBarTablet:text-[23px] text-[24px] navBarTablet:pr-0 pr-[16px] contentXl:leading-[40px] leading-[32px]'>Phụ kiện -  Mũ, Túi tote, khẩu trang, Khăn, Balo</h2>
                 <p className='font-BeVietNamPro font-normal text-gray-500 text-[16px] contentXl:leading-[24px] leading-[21px] content2XL:pt-[16px] content2XL:pb-[80px] contentXl:pt-[12px] contentXl:pb-[65px] contentLg2:pt-[10px] contentLg2:pb-[50px] navBarTablet:pt-[8px] navBarTablet:pb-[35px] pt-[16px] pb-[24px] navBarTablet:pr-0 pr-[16px]'>Bạn muốn tìm một kiểu áo phù hợp cho mọi dịp, thoải mái và phản ánh cá tính của bạn? Hãy đến với chúng tôi và khám phá bộ sưu tập độc đáo của Áo T-shirt - điểm nhấn cho mọi người, từ cá nhân đến doanh nghiệp.</p>
-                <img className='w-full' src='images/Content3_1.png' alt=''/>
+                <img className=' w-full' src='images/Content3_1.png' alt=''/>
             </div>
             <div className='navBarTablet:w-[64%] w-full navBarTablet:pr-0 navBarTablet:py-0 py-[16px] pr-[16px]'>
                 <img className='contentTablet:h-full w-full navBarTablet:h-[430px] bg-cover bg-center' src='images/Content3_2.png' alt=''/>
             </div>
         </div>
 
-        <div className='flex navBarTablet:flex-row flex-col navBarTablet:pb-[80px] pb-0'>
+        <div className='flex navBarTablet:flex-row flex-col pb-0'>
             <div className='navBarTablet:w-[43%] w-[100%]'>
                 <img className='w-full contentCotton:h-auto navBarTablet:h-[370px] h-auto' src='images/Content3_3.png' alt=''/>
             </div>

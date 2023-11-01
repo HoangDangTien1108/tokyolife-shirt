@@ -16,6 +16,8 @@ module.exports = {
         h1Gray:'#374151',
         pGray:'#4B5563',
         content1:'#0000001A',
+        backgroundCustomer:'#F9F8FC',
+        customerText:'#333333',
       },
       screens: {
         navBar2XL:'1554px',
@@ -33,11 +35,14 @@ module.exports = {
         contentLg:'1224px',
         contentCotton:'1198px',
         contentTablet:'1185px',
-        
+        customer2XL:'1217px',
+        customerTablet:'768px',
+        customerPhone:'375px',
       },
       backgroundImage: {
         'header-image':"url('/public/images/imageHeader.png')",
         'navBar-image' :"url('/public/images/backgroundNavBar.png')",
+        'customer-image':"url('/public/images/backgroundNumber.png')",
       },
     },
   },
