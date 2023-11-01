@@ -37,7 +37,7 @@ module.exports = {
         contentTablet:'1185px',
         customer2XL:'1217px',
         customerTablet:'768px',
-        customerPhone:'375px',
+        customerPhone:'430px',
       },
       backgroundImage: {
         'header-image':"url('/public/images/imageHeader.png')",
