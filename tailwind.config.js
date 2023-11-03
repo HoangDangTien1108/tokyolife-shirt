@@ -40,8 +40,8 @@ module.exports = {
         customerPhone:'430px',
         Outstand2Xl:'1489px',
         Whybuy3Xl:'1673px',
-        Whybuy2Xl:'1517px',
-        WhybuyXl:'1444px',
+        Whybuy2Xl:'1564px',
+        WhybuyXl:'1491px',
       },
       backgroundImage: {
         'header-image':"url('/public/images/imageHeader.png')",

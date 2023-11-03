@@ -14,25 +14,25 @@ export default function Whybuy() {
                     <img className='' src='images/backgroundNumber.png' alt=''/> 
                 </div>
                 <div className='WhybuyXl:w-[50%] navBarTablet:w-[60%] Whybuy2Xl:px-[40px] navBarTablet:px-[25px] flex
-                navBarTablet:flex-row flex-col items-center flex-wrap Whybuy3Xl:gap-[40px] navBarTablet:gap-[25px] gap-[40px] navBarTablet:text-left text-center justify-center navBarTablet:p-0 py-[24px] px-[16px]'>
-                    <div className='Whybuy3Xl:w-[43%] navBarTablet:w-[47.5%] w-full flex flex-col  items-center'>
+                navBarTablet:flex-row flex-col items-center flex-wrap Whybuy3Xl:gap-[40px] navBarTablet:gap-[25px] gap-[40px] navBarTablet:text-left text-center navBarTablet:justify-start justify-center navBarTablet:p-0 py-[24px] px-[16px]'>
+                    <div className='Whybuy3Xl:w-[43%] navBarTablet:w-[47.5%] w-full flex flex-col  navBarTablet:items-start items-center'>
                         <img src='images/carton_box.png' alt='' className='Whybuy3Xl:pb-[16px] navBarTablet:pb-[8px] pb-[16px]'/>
                         <span className='font-BeVietNamPro text-gray-700 font-semibold leading-[28px] text-[20px]'>Hàng  hoá chất lượng</span>
                         <p className='font-BeVietNamPro font-normal text-gray-500 leading-[24px] text-[16px] Whybuy3Xl:pt-[8px] navBarTablet:pt-[4px] pt-[8px]'>Tuỳ chọn giao hàng nhanh chóng và đáng tin cậy.Tuỳ chọn giao hàng nhanh chóng và đáng tin cậy</p>
                     </div>
-                    <div className='Whybuy3Xl:w-[43%] navBarTablet:w-[47.5%] w-full flex flex-col  items-center'>
-                        <img src='images/carton_box.png' alt='' className='Whybuy3Xl:pb-[16px] navBarTablet:pb-[8px] pb-[16px]'/>
-                        <span className='font-BeVietNamPro text-gray-700 font-semibold leading-[28px] text-[20px]'>Hàng  hoá chất lượng</span>
+                    <div className='Whybuy3Xl:w-[43%] navBarTablet:w-[47.5%] w-full flex flex-col  navBarTablet:items-start items-center'>
+                        <img src='images/support_chat.png' alt='' className='Whybuy3Xl:pb-[16px] navBarTablet:pb-[8px] pb-[16px]'/>
+                        <span className='font-BeVietNamPro text-gray-700 font-semibold leading-[28px] text-[20px]'>Hỗ trợ 24/7</span>
                         <p className='font-BeVietNamPro font-normal text-gray-500 leading-[24px] text-[16px] Whybuy3Xl:pt-[8px] navBarTablet:pt-[4px] pt-[8px]'>Tuỳ chọn giao hàng nhanh chóng và đáng tin cậy.Tuỳ chọn giao hàng nhanh chóng và đáng tin cậy</p>
                     </div>
-                    <div className='Whybuy3Xl:w-[43%] navBarTablet:w-[47.5%] w-full flex flex-col  items-center'>
-                        <img src='images/carton_box.png' alt='' className='Whybuy3Xl:pb-[16px] navBarTablet:pb-[8px] pb-[16px]'/>
-                        <span className='font-BeVietNamPro text-gray-700 font-semibold leading-[28px] text-[20px]'>Hàng  hoá chất lượng</span>
+                    <div className='Whybuy3Xl:w-[43%] navBarTablet:w-[47.5%] w-full flex flex-col  navBarTablet:items-start items-center'>
+                        <img src='images/Layer_1.png' alt='' className='Whybuy3Xl:pb-[16px] navBarTablet:pb-[8px] pb-[16px]'/>
+                        <span className='font-BeVietNamPro text-gray-700 font-semibold leading-[28px] text-[20px]'>Vận chuyển nhanh chóng</span>
                         <p className='font-BeVietNamPro font-normal text-gray-500 leading-[24px] text-[16px] Whybuy3Xl:pt-[8px] navBarTablet:pt-[4px] pt-[8px]'>Tuỳ chọn giao hàng nhanh chóng và đáng tin cậy.Tuỳ chọn giao hàng nhanh chóng và đáng tin cậy</p>
                     </div>
-                    <div className='Whybuy3Xl:w-[43%] navBarTablet:w-[47.5%] w-full flex flex-col  items-center'>
-                        <img src='images/carton_box.png' alt='' className='Whybuy3Xl:pb-[16px] navBarTablet:pb-[8px] pb-[16px]'/>
-                        <span className='font-BeVietNamPro text-gray-700 font-semibold leading-[28px] text-[20px]'>Hàng  hoá chất lượng</span>
+                    <div className='Whybuy3Xl:w-[43%] navBarTablet:w-[47.5%] w-full flex flex-col  navBarTablet:items-start items-center'>
+                        <img src='images/Capa_1.png' alt='' className='Whybuy3Xl:pb-[16px] navBarTablet:pb-[8px] pb-[16px]'/>
+                        <span className='font-BeVietNamPro text-gray-700 font-semibold leading-[28px] text-[20px]'>Thanh toán an toàn</span>
                         <p className='font-BeVietNamPro font-normal text-gray-500 leading-[24px] text-[16px] Whybuy3Xl:pt-[8px] navBarTablet:pt-[4px] pt-[8px]'>Tuỳ chọn giao hàng nhanh chóng và đáng tin cậy.Tuỳ chọn giao hàng nhanh chóng và đáng tin cậy</p>
                     </div>
                     
