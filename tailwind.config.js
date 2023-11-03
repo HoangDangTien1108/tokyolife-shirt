@@ -38,6 +38,10 @@ module.exports = {
         customer2XL:'1217px',
         customerTablet:'768px',
         customerPhone:'430px',
+        Outstand2Xl:'1489px',
+        Whybuy3Xl:'1673px',
+        Whybuy2Xl:'1517px',
+        WhybuyXl:'1444px',
       },
       backgroundImage: {
         'header-image':"url('/public/images/imageHeader.png')",

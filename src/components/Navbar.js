@@ -1,6 +1,7 @@
-import React from 'react'
 
 export default function Navbar() {
+    
+
   return (
     <>
         <div className='fixed z-20 w-full'>
@@ -12,10 +13,14 @@ export default function Navbar() {
                     <div className='flex justify-between items-center navBarTablet:w-auto w-[100%] navBarTablet:gap-0 menuPhone:gap-[44px] navBarTablet:p-0 menuPhone::px-[16px] py-[16px] px-[20px] gap-0'>
                         <img className='navBarTablet:hidden flex opacity-0' src='images/menu.png' alt=''/>
                         <img src='images/logo.png' alt=''/>
-                        <img className='navBarTablet:hidden flex' src='images/menu.png' alt=''/>
+                        <button
+                            
+                        >
+                            <img className='navBarTablet:hidden flex' src='images/menu.png' alt=''/>
+                        </button>
                     </div>
 
-                    <div className='navBarTablet:flex hidden w-[100%] items-center justify-end'>
+                    <div className='navBarTablet:flex hidden w-[100%] items-center justify-end '>
                         <ul className='flex items-center'>
                             <li className='font-BeVietNamPro font-bold text-redNavBar leading-[24px] text-[16px] px-[16px] py-[20px]'>Trang chủ</li>
                             <li className='font-BeVietNamPro font-bold leading-[24px] text-[16px] px-[16px] py-[20px]'>Giới thiệu</li>

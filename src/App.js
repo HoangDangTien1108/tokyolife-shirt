@@ -8,6 +8,8 @@ import Header from './components/Header';
 import Introduct from './components/Introduct';
 import Line from './components/Line';
 import Navbar from './components/Navbar';
+import Whybuy from './components/Whybuy';
+import Outstand from './components/Outstand';
 
 
 function App() {
@@ -21,6 +23,8 @@ function App() {
       <Content2/>
       <Content3/>
       <Customer/>
+      <Outstand/>
+      <Whybuy/>
     </>
   );
 }
