@@ -10,6 +10,7 @@ module.exports = {
         Purple: ['Purple Purse'],
       },
       colors: {
+        navBarMenu:'#FFFFFF66',
         neutralBlack: '#222222',
         redNavBar:'#C92127',
         blackImg:'#000000E5',
@@ -24,6 +25,7 @@ module.exports = {
         navBarXl:'1370px',
         navBarLg:'1150px',
         navBarTablet:'1105px',
+        navBarTablet2:'1106px',
         introductXl:'1115px',
         headerPhone:'515px',
         headerPhone1:'375px',
