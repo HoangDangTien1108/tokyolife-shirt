@@ -66,11 +66,11 @@ export default function Outstand() {
 
   return (
     <>
-        <div className='navBarTablet:py-[80px] pt-[24px] contentXl:px-[160px] contentLg2:px-[120px] navBarTablet:px-[90px] p-0 flex flex-col items-center'>
-            <div className=''>
+        <div className='contentLg2:py-[80px] navBarTablet:py-[60px] pt-[24px] contentXl:px-[160px] contentLg2:px-[120px] navBarTablet:px-[90px]  p-0 flex flex-col items-center'>
+            <div className='px-[16px]'>
                 <h1 className='font-BeVietNamPro text-center text-gray-700 font-bold OutstandXl:leading-[60px] OutstandXl:text-[40px] text-[24px] leading-[40px] OutstandXl:normal-case uppercase '>Đặc điểm nổi bật của TOKYOLIFE SHIRT</h1>    
             </div>
-            <div className='flex w-full items-start navBarTablet:flex-row flex-col'>
+            <div className='flex w-full items-start navBarTablet:flex-row flex-col contentLg2:pt-[80px] navBarTablet:pt-[60px] pt-[17px]'>
                 <div className='navBarTablet:w-[31.5%] navBarTablet:mr-[40px] w-full navBarTablet:px-0 px-[16px] navBarTablet:py-0 pt-[17px] pb-[24px]'>
                     <button className="text-left w-full px-[24px] OutstandXl:py-[32px] py-[16px]" onClick={()=>{handleOnclick(1)}} style={handleButtonOnchange(1,windowWidth)}>
                         <span className='font-BeVietNamPro font-semibold OutstandXl:text-[28px] text-[20px] leading-[36px] bg-backgroundOutstand ' style={handleSpanOnchange(1)}>Công nghệ vải</span>
