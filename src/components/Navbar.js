@@ -12,7 +12,7 @@ export default function Navbar() {
     if(windowWidth > 1105){
       setMenu(true);
     }
-  });
+  }, [menu, windowWidth]);
 
   const handleMenuClick = () => {
     setMenu(!menu)

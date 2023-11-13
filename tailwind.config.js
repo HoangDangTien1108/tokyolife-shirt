@@ -44,6 +44,7 @@ module.exports = {
         Whybuy3Xl:'1673px',
         Whybuy2Xl:'1564px',
         WhybuyXl:'1491px',
+        OutstandXl:'1200px',
       },
       backgroundImage: {
         'header-image':"url('/public/images/imageHeader.png')",
