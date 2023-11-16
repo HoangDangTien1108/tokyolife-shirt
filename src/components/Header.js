@@ -3,7 +3,7 @@ import React from 'react'
 export default function Header() {
   return (
     <>
-      <div className='Header'>
+      <section className='Header' id="home-Page">
          <div className='w-full relative navBar2XL::top-0 navBarTablet:top-[30px] headerPhone:top-[50px] top-[70px]'>
             <div className='h-full left-0 absolute w-full' style={{"background-color": "rgba(0,0,0,.4)"}}>
             </div>
@@ -17,7 +17,7 @@ export default function Header() {
               </div>
             </div>
          </div>
-      </div> 
+      </section> 
     </>
   )
 }

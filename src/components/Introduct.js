@@ -3,7 +3,7 @@ import React from 'react'
 export default function Introduct() {
   return (
     <>
-        <div className='w-full flex navBarTablet:flex-row flex-col-reverse items-center navBarTablet:pt-[0px] headerPhone:pt-[75px] pt-[90px]'>
+        <section className='w-full flex navBarTablet:flex-row flex-col-reverse items-center navBarTablet:pt-[0px] headerPhone:pt-[75px] pt-[90px] scrollspay' id='Introduct'>
             <div className='navBarTablet:w-[50%] w-[100%]'>
                 <img className='w-[100%]' src='images/Itroduct.png' alt=''/>
             </div>
@@ -16,8 +16,7 @@ export default function Introduct() {
                     <p className='font-BeVietNamPro font-normal text-pGray leading-[24px] text-[16px] navBarTablet:pb-[0px] pb-[24px]'>Luôn nghĩ cho khách hàng. Nhận trách nhiệm và giữ cam kết. Yêu thương và hỗ trợ đồng đội. Chính trực. Máu lửa và tốc độ. Học hỏi, sáng tạo. Làm cho khách hàng của thấy tự hào về chính bản thân mình qua những sản phẩm và dịch vụ có đẳng cấp cao nhất</p>
                 </div>
             </div>
-        </div>
-        
+        </section>
     </>
   )
 }

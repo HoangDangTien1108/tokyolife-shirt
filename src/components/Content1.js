@@ -3,7 +3,7 @@ import React from 'react'
 export default function Content1() {
   return (
     <>
-        <div className='w-full flex navBarTablet:flex-row flex-col navBarTablet:pt-[40px] navBarTablet:pb-[100px] items-end contentXl:px-[160px] contentLg2:px-[120px] navBarTablet:px-[90px] p-0'>
+        <div className='w-full flex navBarTablet:flex-row flex-col navBarTablet:pt-[40px] navBarTablet:pb-[100px] items-end contentXl:px-[160px] contentLg2:px-[120px] navBarTablet:px-[90px] p-0 scrollspay'>
             <div className='navBarTablet:w-[36%] w-[100%] content3XL:pr-[120px] navBarTablet:pr-[80px] navBarTablet:pl-[0px] pl-[16px]'>  
                 <h1 className='font-Purple text-content1 font-normal contentXl:text-[122px] leading-normal content2XL:h-[100%] contentXl:h-[165px] contentLg2:h-[155px] navBarTablet:h-[145px] navBarTablet:text-[115px] text-[122px] navBarTablet:pr-[0px] pr-[16px]'>01</h1>
                 <h2 className='font-BeVietNamPro font-bold uppercase text-gray-700 contentXl:text-[32px] text-[24px] navBarTablet:pr-0 pr-[16px]'>Áo T-Shirts, Polo</h2>
