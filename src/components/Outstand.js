@@ -66,7 +66,7 @@ export default function Outstand() {
 
   return (
     <>
-        <section className='contentLg2:py-[80px] navBarTablet:py-[60px] pt-[24px] contentXl:px-[160px] contentLg2:px-[120px] navBarTablet:px-[90px]  p-0 flex flex-col items-center scrollspay ' id='Outstand'>
+        <section className='contentLg2:py-[80px] navBarTablet:py-[60px] pt-[24px] contentXl:px-[160px] contentLg2:px-[120px] navBarTablet:px-[90px]  p-0 flex flex-col items-center' id='Outstand'>
             <div className='px-[16px]'>
                 <h1 className='font-BeVietNamPro text-center text-gray-700 font-bold OutstandXl:leading-[60px] OutstandXl:text-[40px] text-[24px] leading-[40px] OutstandXl:normal-case uppercase '>Đặc điểm nổi bật của TOKYOLIFE SHIRT</h1>    
             </div>

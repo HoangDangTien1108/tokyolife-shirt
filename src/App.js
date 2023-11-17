@@ -9,6 +9,7 @@ import Line from "./components/Line";
 import Navbar from "./components/Navbar";
 import Whybuy from "./components/Whybuy";
 import Outstand from "./components/Outstand";
+import Commit from "./components/Commit";
 
 function App() {
   return (
@@ -24,7 +25,10 @@ function App() {
       </section>
       <Customer />
       <Outstand />
-      <Whybuy />
+      <section id="Blogs">
+        <Whybuy />
+        <Commit />
+      </section>
     </>
   );
 }

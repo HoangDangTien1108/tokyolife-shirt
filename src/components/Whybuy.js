@@ -3,7 +3,7 @@ import React from 'react'
 export default function Whybuy() {
   return (
     <>
-        <div className='WhybuyXl:px-[160px] navBarTablet:px-[80px] navBarTablet:py-[80px] sm:py-[50px] py-[24px] bg-backgroundCustomer flex flex-col items-center w-full'>
+        <div className='WhybuyXl:px-[160px] navBarTablet:px-[80px] navBarTablet:py-[80px] sm:py-[50px] py-[24px] bg-backgroundCustomer flex flex-col items-center w-full'>   
             <div className=''>
                 <h1 className='font-BeVietNamPro font-bold WhybuyXl:leading-normal WhybuyXl:text-[40px] 
                 text-[24px] leading-[40px] text-center WhybuyXl:normal-case uppercase 

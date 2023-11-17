@@ -19,6 +19,7 @@ module.exports = {
         content1:'#0000001A',
         backgroundCustomer:'#F9F8FC',
         customerText:'#333333',
+        paramentbg:'#00000033',
       },
       screens: {
         navBar2XL:'1554px',
@@ -45,6 +46,9 @@ module.exports = {
         Whybuy2Xl:'1564px',
         WhybuyXl:'1491px',
         OutstandXl:'1200px',
+        parameterXl:'1210px',
+        parametermobile:'780px',
+        parameterphone:'440px',
       },
       backgroundImage: {
         'header-image':"url('/public/images/imageHeader.png')",
