@@ -4,7 +4,7 @@ import Parameter from "./Parameter";
 export default function Commit() {
   return (
     <>
-      <div className="bg-redNavBar text-white w-full navBarTablet:py-[80px] WhybuyXl:px-[160px] navBarTablet:px-[80px] parametermobile:px-[60px] px-[16px] py-[24px] flex WhybuyXl:gap-[85px] gap-[50px] items-center navBarTablet:flex-row flex-col justify-center">
+      <div className="bg-redNavBar text-white w-full navBarTablet:py-[80px] WhybuyXl:px-[160px] navBarTablet:px-[80px] parametermobile:px-[60px] px-[16px] py-[24px] flex WhybuyXl:gap-[85px] parametermobile:gap-[50px] gap-[24px] items-center navBarTablet:flex-row flex-col justify-center">
         <div className="WhybuyXl:w-[54%] parameterXl:w-[50%] navBarTablet:w-[54%] w-full flex flex-wrap WhybuyXl:gap-[40px] navBarTablet:gap-[20px] parametermobile:gap-[40px] gap-[16px] items-center navBarTablet:justify-end justify-center">
           <Parameter 
             image={"images/shop.png"}

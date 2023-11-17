@@ -1,6 +1,7 @@
 import React from "react";
 
 export default function Parameter(props) {
+
   return (
     <>
       <button className="bg-paramentbg text-neutral-50 flex flex-col w-[46%] items-center justify-center parameterphone:p-[24px] p-[16px] rounded-[8px] gap-[8px]">
